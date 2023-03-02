@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  navbar:
+    logo: "assets/logo/Horizontal_Lockup_White.png"
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - who-are-we.qmd
+      - resources.qmd
+      - join.qmd
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+editor: visual
+
