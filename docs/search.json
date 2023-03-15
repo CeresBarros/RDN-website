@@ -14,11 +14,11 @@
     "text": "Latest news\n\nScoping meeting (4th October 2022).\nNetwork formed (October 2022)\nLogo created (October 2022)\nSteering committee formed (November 2022).\nFirst steering committee meeting minutes (7th December 2022).\nFrom the Steering Committee: Initial work will be on a position paper.\nSecond steering committee minutes (12th January 2023)."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "",
     "section": "",
-    "text": "The aims of the Response Diversity Network currently include:\n\nTo organise and accelerate scientific advances about response diversity.\nTo promote the inclusion of response diversity in monitoring and assessment of biodiversity change.\nTo provide clear and accessible information about response diversity to relevant individuals and organisations.\n\nThe network should evolve, and as it does, these aims and how they are approached can evolve as well. The process for such change should be as open and inclusive as possible."
+    "text": "Copyright (c) 2016-present George Cushen\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
   },
   {
     "objectID": "who-are-we.html",
@@ -33,6 +33,13 @@
     "title": "Join",
     "section": "",
     "text": "If you would like to chat about joining the network, or for any other reason contact us, please fill in and submit this google form. Someone from the network will then get in touch as soon as possible."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The aims of the Response Diversity Network currently include:\n\nTo organise and accelerate scientific advances about response diversity.\nTo promote the inclusion of response diversity in monitoring and assessment of biodiversity change.\nTo provide clear and accessible information about response diversity to relevant individuals and organisations.\n\nThe network should evolve, and as it does, these aims and how they are approached can evolve as well. The process for such change should be as open and inclusive as possible."
   },
   {
     "objectID": "resources.html",
