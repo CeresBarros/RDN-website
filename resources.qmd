@@ -20,4 +20,4 @@ title: "Resources"
 
 ## Miscellany
 
--   Notes ([pdf 0.1MB](../assets/scoping_chat/scoping_chat_notes.pdf)) and slides ([pdf 4.9MB](../assets/scoping_chat/scoping_chat_slides.pdf)) from the scoping meeting held in October 2022.
+-   Notes ([pdf 0.1MB](assets/scoping_chat/scoping_chat_notes.pdf)) and slides ([pdf 4.9MB](assets/scoping_chat/scoping_chat_slides.pdf)) from the scoping meeting held in October 2022.
