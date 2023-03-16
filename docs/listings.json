@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/posts.html",
+    "listing": "/index.html",
     "items": [
       "/posts/2023-03-01-RDN-at-ESJ.html",
       "/posts/2023-01-02-SC-meeting.html",
@@ -10,7 +10,7 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/posts.html",
     "items": [
       "/posts/2023-03-01-RDN-at-ESJ.html",
       "/posts/2023-01-02-SC-meeting.html",
