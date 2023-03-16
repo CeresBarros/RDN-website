@@ -1,16 +1,18 @@
 ---
-title: "Who are we"
+title: "Who we are"
 ---
 
 The network is open to anyone interested in being part of a community of people interested in any and all things about response diversity.
 
-The network is currently composed of about 64 members from 45 institutions in 22 countries. Current members include early career researchers (e.g. PhD candidates), researchers later in their careers, and everything in between.
+The network is currently composed of about 64 members from 45 institutions in 22 countries.
+Current members include early career researchers (e.g. PhD candidates), researchers later in their careers, and everything in between.
 
 ![Members of the network in earely 2023](assets/images/RDN_members_early2023.png)
 
 ## Steering Committee
 
-A steering committee helps coordinate the development of the network. The committee currently consists of 7 members:
+A steering committee helps coordinate the development of the network.
+The committee currently consists of 7 members:
 
 -   [Ceres Barros](https://ceresbarros.wordpress.com/) (University of British Columbia, Canada)
 -   [Laura E. Dee](https://www.lauraedee.com/home) (University of Colorado, Boulder, USA)
