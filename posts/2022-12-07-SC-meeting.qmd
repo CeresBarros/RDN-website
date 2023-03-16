@@ -1,6 +1,6 @@
 ---
 title: "Steering committee meeting"
-description: "The first steering committee meeting"
+description: "First steering committee meeting"
 author: "Admin"
 date: "2022-12-07"
 ---
