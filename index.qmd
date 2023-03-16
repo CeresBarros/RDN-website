@@ -10,9 +10,9 @@ listing:
   filter-ui: false
 ---
 
-Welcome to the website of the Response Diversity Network. Latest news is below. Click on the About tab to find out more about the network.
+![Members of the network in early 2023](assets/images/RDN_members_early2023_small.jpg){fig-align="left" width="763"}
 
-![Members of the network in early 2023](assets/images/RDN_members_early2023_small.jpg){width="300" fig-align="left"}
+Welcome to the website of the Response Diversity Network!\
 
 ## Latest news
 
