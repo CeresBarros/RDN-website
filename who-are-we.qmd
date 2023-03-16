@@ -8,6 +8,8 @@ The network is currently composed of about 64 members from 45 institutions in 22
 
 ![Members of the network in earely 2023](assets/images/RDN_members_early2023.png)
 
+## Steering Committee
+
 A steering committee helps coordinate the development of the network. The committee currently consists of 7 members:
 
 -   [Ceres Barros](https://ceresbarros.wordpress.com/) (University of British Columbia, Canada)

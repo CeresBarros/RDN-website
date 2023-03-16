@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -58,7 +60,37 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-posts-listings .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-description','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-posts-listings'] = new List('listing-posts-listings', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -135,18 +167,95 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Welcome to the web site of the Response Diversity Network. Latest news is below. Click on the About tab to find out more about the network.</p>
+<p>Welcome to the website of the Response Diversity Network. Latest news is below. Click on the About tab to find out more about the network.</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="assets/images/RDN_members_early2023_small.jpg" class="img-fluid figure-img" width="300"></p>
+<p></p><figcaption class="figure-caption">Members of the network in early 2023</figcaption><p></p>
+</figure>
+</div>
 <section id="latest-news" class="level2">
 <h2 class="anchored" data-anchor-id="latest-news">Latest news</h2>
-<ul>
-<li>Scoping meeting (4th October 2022).</li>
-<li>Network formed (October 2022)</li>
-<li>Logo created (October 2022)</li>
-<li>Steering committee formed (November 2022).</li>
-<li>First steering committee meeting minutes (7th December 2022).</li>
-<li>From the Steering Committee: Initial work will be on a position paper.</li>
-<li>Second steering committee minutes (12th January 2023).</li>
-</ul>
+<div id="listing-posts-listings" class="quarto-listing quarto-listing-container-table">
+
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+Title
+</th>
+<th>
+Description
+</th>
+<th>
+Date
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-date-sort="1677625200000" data-listing-file-modified-sort="1678952620861" data-listing-reading-time-sort="0.175" data-listing-title-sort="RDN @ ESJ" data-listing-filename-sort="2023-03-01-RDN-at-ESJ.qmd">
+<td class="listing-title">
+<a href="./posts/2023-03-01-RDN-at-ESJ.html" class="title">RDN @ ESJ</a>
+</td>
+<td class="listing-description">
+Sam Ross represented the network at the annual meeting of the Ecological Society of Japan
+</td>
+<td class="listing-date">
+Mar 1, 2023
+</td>
+</tr>
+<tr data-index="1" data-listing-date-sort="1672614000000" data-listing-file-modified-sort="1678952484842" data-listing-reading-time-sort="0.315" data-listing-title-sort="Steering committee meeting" data-listing-filename-sort="2023-01-02-SC-meeting.qmd">
+<td class="listing-title">
+<a href="./posts/2023-01-02-SC-meeting.html" class="title">Steering committee meeting</a>
+</td>
+<td class="listing-description">
+The second steering committee meeting
+</td>
+<td class="listing-date">
+Jan 2, 2023
+</td>
+</tr>
+<tr data-index="2" data-listing-date-sort="1670367600000" data-listing-file-modified-sort="1678952494307" data-listing-reading-time-sort="0.395" data-listing-title-sort="Steering committee meeting" data-listing-filename-sort="2022-12-07-SC-meeting.qmd">
+<td class="listing-title">
+<a href="./posts/2022-12-07-SC-meeting.html" class="title">Steering committee meeting</a>
+</td>
+<td class="listing-description">
+The first steering committee meeting
+</td>
+<td class="listing-date">
+Dec 7, 2022
+</td>
+</tr>
+<tr data-index="3" data-listing-date-sort="1667257200000" data-listing-file-modified-sort="1678952280339" data-listing-reading-time-sort="0.325" data-listing-title-sort="Steering committee formed" data-listing-filename-sort="2022-11-01-SC-formed.qmd">
+<td class="listing-title">
+<a href="./posts/2022-11-01-SC-formed.html" class="title">Steering committee formed</a>
+</td>
+<td class="listing-description">
+A steering committee of seven was formed.
+</td>
+<td class="listing-date">
+Nov 1, 2022
+</td>
+</tr>
+<tr data-index="4" data-listing-date-sort="1666908000000" data-listing-file-modified-sort="1678962944626" data-listing-reading-time-sort="0.965" data-listing-title-sort="Network formed" data-listing-filename-sort="2022-10-28-network-formed.qmd">
+<td class="listing-title">
+<a href="./posts/2022-10-28-network-formed.html" class="title">Network formed</a>
+</td>
+<td class="listing-description">
+In October 2022 the Response Diversity Network was formed
+</td>
+<td class="listing-date">
+Oct 28, 2022
+</td>
+</tr>
+</tbody>
+
+</table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+
 
 
 </section>

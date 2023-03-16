@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Welcome to the web site of the Response Diversity Network. Latest news is below. Click on the About tab to find out more about the network."
+    "text": "Welcome to the website of the Response Diversity Network. Latest news is below. Click on the About tab to find out more about the network."
   },
   {
     "objectID": "index.html#latest-news",
     "href": "index.html#latest-news",
     "title": "Welcome",
     "section": "Latest news",
-    "text": "Latest news\n\nScoping meeting (4th October 2022).\nNetwork formed (October 2022)\nLogo created (October 2022)\nSteering committee formed (November 2022).\nFirst steering committee meeting minutes (7th December 2022).\nFrom the Steering Committee: Initial work will be on a position paper.\nSecond steering committee minutes (12th January 2023)."
+    "text": "Latest news\n\n\n\n\n\n\nTitle\n\n\nDescription\n\n\nDate\n\n\n\n\n\n\nRDN @ ESJ\n\n\nSam Ross represented the network at the annual meeting of the Ecological Society of Japan\n\n\nMar 1, 2023\n\n\n\n\nSteering committee meeting\n\n\nThe second steering committee meeting\n\n\nJan 2, 2023\n\n\n\n\nSteering committee meeting\n\n\nThe first steering committee meeting\n\n\nDec 7, 2022\n\n\n\n\nSteering committee formed\n\n\nA steering committee of seven was formed.\n\n\nNov 1, 2022\n\n\n\n\nNetwork formed\n\n\nIn October 2022 the Response Diversity Network was formed\n\n\nOct 28, 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "LICENSE.html",
@@ -25,7 +25,7 @@
     "href": "who-are-we.html",
     "title": "Who are we",
     "section": "",
-    "text": "The network is currently composed of about 64 members from 45 institutions in 22 countries. Current members include early career researchers (e.g. PhD candidates), researchers later in their careers, and everything in between.\n\n\n\nMembers of the network in earely 2023\n\n\nA steering committee helps coordinate the development of the network. The committee currently consists of 7 members:\n\nCeres Barros (University of British Columbia, Canada)\nLaura E. Dee (University of Colorado, Boulder, USA)\nMike Fowler (Swansea University, UK)\nOwen L. Petchey (University of Zurich, Switzerland)\nSamuel R.P-J. Ross (Okinawa Institute of Science and Technology Graduate University, Japan)\nTakehiro Sasaki (Yokohama National University, Japan)\nHannah J. White (Anglia Ruskin University, UK)"
+    "text": "The network is open to anyone interested in being part of a community of people interested in any and all things about response diversity.\nThe network is currently composed of about 64 members from 45 institutions in 22 countries. Current members include early career researchers (e.g. PhD candidates), researchers later in their careers, and everything in between."
   },
   {
     "objectID": "join.html",
@@ -39,7 +39,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "The aims of the Response Diversity Network currently include:\n\nTo organise and accelerate scientific advances about response diversity.\nTo promote the inclusion of response diversity in monitoring and assessment of biodiversity change.\nTo provide clear and accessible information about response diversity to relevant individuals and organisations.\n\nThe network should evolve, and as it does, these aims and how they are approached can evolve as well. The process for such change should be as open and inclusive as possible."
+    "text": "Environments are always changing, and the response of a system experiencing such perturbations can have important consequences. A system might remain relatively unaffected by perturbations, or a system might change. For example, a food production system might be resilient to a drought, such that yield is relatively unaffected. Or it might lack resilience, so that drought causes a great reduction in yield.\nOne important feature of system that determines its resilience is the variation in how their individual components respond to perturbations. This variation in responses is known as response diversity. It is implicated in the resilience of many kinds of systems to perturbations, including food production systems, financial systems, ecosystems, health systems, communications system, to name but a few (e.g. Walker et al 2023).\nHowever, the ways in which response diversity is studied and measured are diverse and span across multiple systems, scales and environments. Because of this, our understanding of whether there are general “rules” and “metrics” with respect to response diversity is still limited. Furthermore, there is considerable untapped potential for assessment and monitoring of response diversity, and for response diversity to be included in decisions that impact on the future of the numerous systems mentioned above."
   },
   {
     "objectID": "resources.html",
@@ -109,7 +109,7 @@
     "href": "resources.html#presentations",
     "title": "Resources",
     "section": "Presentations",
-    "text": "Presentations\n\nRoss, S.R.P.-J., Petchey, O.L., and the Response Diversity Network (2023) Exploring the biotic drivers of ecological stability through a global collaborative network. Oral presentation at the annual meeting of the Ecological Society of Japan (pdf 13.6MB; pptx 12.3MB."
+    "text": "Presentations\n\nRoss, S.R.P.-J., Petchey, O.L., and the Response Diversity Network (2023) Exploring the biotic drivers of ecological stability through a global collaborative network. Oral presentation at the annual meeting of the Ecological Society of Japan (pdf 13.6MB; pptx 12.3MB)."
   },
   {
     "objectID": "resources.html#steering-committee-minutes",
@@ -131,5 +131,19 @@
     "title": "Resources",
     "section": "Miscellany",
     "text": "Miscellany\n\nNotes (pdf 0.1MB) and slides (pdf 4.9MB) from the scoping meeting held in October 2022."
+  },
+  {
+    "objectID": "who-are-we.html#steering-committee",
+    "href": "who-are-we.html#steering-committee",
+    "title": "Who are we",
+    "section": "Steering Committee",
+    "text": "Steering Committee\nA steering committee helps coordinate the development of the network. The committee currently consists of 7 members:\n\nCeres Barros (University of British Columbia, Canada)\nLaura E. Dee (University of Colorado, Boulder, USA)\nMike Fowler (Swansea University, UK)\nOwen L. Petchey (University of Zurich, Switzerland)\nSamuel R.P-J. Ross (Okinawa Institute of Science and Technology Graduate University, Japan)\nTakehiro Sasaki (Yokohama National University, Japan)\nHannah J. White (Anglia Ruskin University, UK)"
+  },
+  {
+    "objectID": "about.html#aims",
+    "href": "about.html#aims",
+    "title": "About",
+    "section": "Aims",
+    "text": "Aims\nThe aims of the Response Diversity Network currently include:\n\nTo organise and accelerate scientific advances about response diversity.\nTo promote the inclusion of response diversity in monitoring and assessment of biodiversity change.\nTo provide clear and accessible information about response diversity to relevant individuals and organisations.\n\nThe network should evolve, and as it does, these aims and how they are approached can evolve as well. The process for such change should be as open and inclusive as possible."
   }
 ]

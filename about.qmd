@@ -2,7 +2,15 @@
 title: "About"
 ---
 
-Response diversity is variation in how organisms respond to environmental change. A diversity of responses ensures that when some organisms are negatively affected, others experience positive effects. This should lead to greater stability of ecological communities and ecosystems. The ways in which response diversity is studied and measured are diverse and span across multiple scales and environments. Because of this, our understanding of whether there are general "rules" and "metrics" with respect to response diversity is still limited.
+Environments are always changing, and the response of a system experiencing such perturbations can have important consequences. A system might remain relatively unaffected by perturbations, or a system might change. For example, a food production system might be resilient to a drought, such that yield is relatively unaffected. Or it might lack resilience, so that drought causes a great reduction in yield.
+
+One important feature of system that determines its resilience is the variation in how their individual components respond to perturbations. This variation in responses is known as response diversity. It is implicated in the resilience of many kinds of systems to perturbations, including food production systems, financial systems, ecosystems, health systems, communications system, to name but a few ([e.g. Walker et al 2023](https://www.nature.com/articles/s41893-022-01048-7){target="_blank"}).
+
+![](assets/images/response_div_two_systems.png)
+
+However, the ways in which response diversity is studied and measured are diverse and span across multiple systems, scales and environments. Because of this, our understanding of whether there are general "rules" and "metrics" with respect to response diversity is still limited. Furthermore, there is considerable untapped potential for assessment and monitoring of response diversity, and for response diversity to be included in decisions that impact on the future of the numerous systems mentioned above.
+
+## Aims
 
 The aims of the Response Diversity Network currently include:
 
