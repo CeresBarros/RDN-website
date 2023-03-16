@@ -4,7 +4,7 @@ title: "Resources"
 
 ## Publications
 
--   Ross, S.R.P.-J., Petchey, O.L., Sasaki, T. & Armitage, D.W. (2023). How to measure response diversity. *Methods in Ecology and Evolution*. [Current available only as a preprint](https://www.biorxiv.org/content/10.1101/2022.04.26.489626v3)
+-   Ross, S.R.P.-J., Petchey, O.L., Sasaki, T. & Armitage, D.W. (2023). How to measure response diversity. *Methods in Ecology and Evolution*. [Preprint](https://www.biorxiv.org/content/10.1101/2022.04.26.489626v3)
 
 ## Presentations
 
