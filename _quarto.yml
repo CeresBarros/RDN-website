@@ -19,6 +19,7 @@ format:
     theme: minty
     css: styles.css
     toc: true
+    smooth-scroll: true
 
 editor: visual
 
