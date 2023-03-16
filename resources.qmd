@@ -12,11 +12,11 @@ title: "Resources"
 
 ## Steering Committee minutes
 
-[SC meeting minutes are available in this folder on github.]()
+[SC meeting minutes are available in this folder on github.](https://github.com/ResponseDiversityNetwork/RDN-website/tree/main/assets/sc_meeting_mins)
 
 ## Logos
 
-[Various arrangements of the logo are available in this folder on github.]()
+[Various arrangements of the logo are available in this folder on github.](https://github.com/ResponseDiversityNetwork/RDN-website/tree/main/assets/logo)
 
 ## Miscellany
 
