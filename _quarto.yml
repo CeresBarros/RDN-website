@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - who-are-we.qmd
+      - who-we-are.qmd
       - resources.qmd
       - posts.qmd
       - join.qmd
