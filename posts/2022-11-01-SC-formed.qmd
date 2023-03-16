@@ -5,4 +5,6 @@ author: "Admin"
 date: "2022-11-01"
 ---
 
-Following the decision to \[form the network\](hyperlink to post), people in the scoping discussions and also those not attending were informed of the decision and invited to express their interest to participate in the network Steering Committee. Numerous individuals volunteered and the steering committee was formed with a diverse selection of those volunteers. \[The past and present members of the steering committee are given here.\]
+Following the decision to [form the network](2022-10-28-network-formed.qmd), people in the scoping discussions and also those not attending were informed of the decision and invited to express their interest to participate in the network Steering Committee.
+Numerous individuals volunteered and the steering committee was formed with a diverse selection of those volunteers.
+See past and present members of the steering committee [here](../docs/who-we-are.html).

@@ -5,4 +5,7 @@ author: "Admin"
 date: "2022-12-07"
 ---
 
-The first meeting of the network steering committee was held on 7th December 2022. \[The minutes of this first SC meeting are here.\]() In brief, there was a update about membership, notification of a possible response diversity focused workshop in Japan in 2024, discussion of early priorities. The decision was made to start work on a positioning report that would lay out the concept of and need for a Response Diversity Network. The membership were informed and work began!
+The first meeting of the network steering committee was held on 7th December 2022 (meeting minutes available [here](https://github.com/ResponseDiversityNetwork/RDN-website/tree/main/assets/sc_meeting_mins)).
+In brief, there was a update about membership, notification of a possible response diversity focused workshop in Japan in 2024, discussion of early priorities.
+The decision was made to start work on a positioning report that would lay out the concept of and need for a Response Diversity Network.
+The membership were informed and work began!
