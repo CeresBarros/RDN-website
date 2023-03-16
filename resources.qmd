@@ -4,9 +4,20 @@ title: "Resources"
 
 ## Publications
 
-Ross, S.R.P.-J., Petchey, O.L., Sasaki, T. & Armitage, D.W. (2023). How to measure response diversity. *Methods in Ecology and Evolution*. [Current available only as a preprint](https://www.biorxiv.org/content/10.1101/2022.04.26.489626v3) 
+-   Ross, S.R.P.-J., Petchey, O.L., Sasaki, T. & Armitage, D.W. (2023). How to measure response diversity. *Methods in Ecology and Evolution*. [Current available only as a preprint](https://www.biorxiv.org/content/10.1101/2022.04.26.489626v3)
 
-## Administrative
+## Presentations
 
-* SC meeting minutes (to be added).
-* Scoping meeting notes (to be added).
+-   Ross, S.R.P.-J., Petchey, O.L., and the Response Diversity Network (2023) Exploring the biotic drivers of ecological stability through a global collaborative network. *Oral presentation at the annual meeting of the Ecological Society of Japan* ([pdf 13.6MB](assets/presentations/Slides_SR_ESJ_2023.pdf); [pptx 12.3MB](assets/presentations/Slides_SR_ESJ_2023.pptx).
+
+## Steering Committee minutes
+
+[SC meeting minutes are available in this folder on github.]()
+
+## Logos
+
+[Various arrangements of the logo are available in this folder on github.]()
+
+## Miscellany
+
+-   Notes ([pdf 0.1MB](../assets/scoping_chat/scoping_chat_notes.pdf)) and slides ([pdf 4.9MB](../assets/scoping_chat/scoping_chat_slides.pdf)) from the scoping meeting held in October 2022.

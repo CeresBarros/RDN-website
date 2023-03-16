@@ -1,0 +1,8 @@
+---
+title: "Steering committee meeting"
+description: "The second steering committee meeting"
+author: "Admin"
+date: "2023-01-02"
+---
+
+Six new members joined in the last month. Priorities remain agenda setting via a positioning report; questions for a survey that could form the basis of the positioning paper were discussed and refined. Regarding network communication, it was decided to be as open as possible, e.g., that steering committee meeting minutes would be open. \[The minutes of this second SC meeting are here.\]()
