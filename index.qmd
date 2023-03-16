@@ -10,7 +10,7 @@ listing:
   filter-ui: false
 ---
 
-![Members of the network in early 2023](assets/images/RDN_members_early2023_small.jpg){fig-align="left" width="763"}
+![Members of the network in early 2023](assets/images/RDN_members_early2023_small.jpg){fig-align="center" width="763"}
 
 Welcome to the website of the Response Diversity Network!\
 
