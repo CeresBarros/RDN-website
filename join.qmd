@@ -1,7 +1,8 @@
 ---
-title: "Join"
+title: "Join us"
 ---
 
-If you would like to chat about joining the network, or for any other reason contact us, please fill in and submit [this google form](https://forms.gle/uUgY9K8SkxkfKCR29). Someone from the network will then get in touch as soon as possible.
+![](assets/images/and_you_question.png){fig-align="center" width="511"}
 
-![](assets/images/and_you_question.png){width="300" fig-align="left"}
+Contact us if you are interested in joining the network, or for any other reason.
+Please fill and submit [this google form](https://forms.gle/uUgY9K8SkxkfKCR29) and someone from the network will get in touch as soon as possible.
