@@ -20,6 +20,7 @@ website:
       - resources.qmd
       - posts.qmd
       - join.qmd
+      - acknowledgements.qmd
   page-footer:
     left:
       - text: "Last edited `r format(Sys.time(), '%d %B, %Y')`"
