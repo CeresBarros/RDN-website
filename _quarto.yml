@@ -1,10 +1,17 @@
 project:
   type: website
   output-dir: docs
+  preview:
+    browser: false
+    timeout: 0.001
 
 website:
+  title: "Response Diversity Website"
+  site-url: https://responsediversitynetwork.github.io/RDN-website/
+  repo-url: https://github.com/ResponseDiversityNetwork/RDN-website
   navbar:
     logo: "assets/logo/Horizontal_Lockup_White.png"
+    search: true
     left:
       - href: index.qmd
         text: Home
@@ -13,13 +20,22 @@ website:
       - resources.qmd
       - posts.qmd
       - join.qmd
+  page-footer:
+    left:
+      - text: "Last edited `r format(Sys.time(), '%d %B, %Y')`"
 
 format:
   html:
-    theme: minty
-    css: styles.css
-    toc: true
+    theme:
+      light: assets/theme/ek-theme-light_modified.scss
+      dark: assets/theme/ek-theme-dark_modified.scss
+    css: assets/theme/ek-styles.css
+    code-block-border-left: true
+    highlight-style:
+      light: assets/theme/ek-light.theme
+      dark: assets/theme/ek-dark.theme
     smooth-scroll: true
+    link-external-newwindow: true
 
 editor: visual
 
