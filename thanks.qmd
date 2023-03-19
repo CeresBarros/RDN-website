@@ -1,0 +1,7 @@
+---
+title: "Thanks"
+---
+
+Our website was built using [Quarto](https://quarto.org/) and theme customisations by [Ella Kaye](https://ellakaye.co.uk/posts/2022-12-11_welcome-quarto/). Our humble thanks to Ella for sharing her source code for others like us to use.
+
+We also thank the creators of the open-source [Manrope](https://www.gent.media/manrope) and [Hack](https://sourcefoundry.org/hack/) fonts.

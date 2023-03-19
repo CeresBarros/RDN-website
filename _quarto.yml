@@ -6,11 +6,11 @@ project:
     timeout: 0.001
 
 website:
-  title: "Response Diversity Website"
+  title: ""
   site-url: https://responsediversitynetwork.github.io/RDN-website/
   repo-url: https://github.com/ResponseDiversityNetwork/RDN-website
   navbar:
-    logo: "assets/logo/Horizontal_Lockup_White.png"
+    logo: "assets/logo/Horizontal_Lockup_Black.png"
     search: true
     left:
       - href: index.qmd
@@ -20,10 +20,12 @@ website:
       - resources.qmd
       - posts.qmd
       - join.qmd
-      - acknowledgements.qmd
+      - thanks.qmd
   page-footer:
     left:
       - text: "Last edited `r format(Sys.time(), '%d %B, %Y')`"
+  sidebar:
+    logo: "assets/logo/Horizontal_Lockup_Black.png"
 
 format:
   html:
