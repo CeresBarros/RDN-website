@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://responsediversitynetwork.github.io/RDN-website/about.html</loc>
-    <lastmod>2023-03-18T06:31:53.698Z</lastmod>
+    <lastmod>2023-03-19T13:30:07.416Z</lastmod>
   </url>
   <url>
     <loc>https://responsediversitynetwork.github.io/RDN-website/acknowledgements.html</loc>
@@ -10,11 +10,11 @@
   </url>
   <url>
     <loc>https://responsediversitynetwork.github.io/RDN-website/index.html</loc>
-    <lastmod>2023-03-18T06:31:55.202Z</lastmod>
+    <lastmod>2023-03-19T13:30:18.201Z</lastmod>
   </url>
   <url>
     <loc>https://responsediversitynetwork.github.io/RDN-website/join.html</loc>
-    <lastmod>2023-03-18T06:31:55.878Z</lastmod>
+    <lastmod>2023-03-19T13:30:12.130Z</lastmod>
   </url>
   <url>
     <loc>https://responsediversitynetwork.github.io/RDN-website/LICENSE.html</loc>
@@ -42,14 +42,18 @@
   </url>
   <url>
     <loc>https://responsediversitynetwork.github.io/RDN-website/posts.html</loc>
-    <lastmod>2023-03-18T06:32:00.806Z</lastmod>
+    <lastmod>2023-03-19T13:30:11.373Z</lastmod>
   </url>
   <url>
     <loc>https://responsediversitynetwork.github.io/RDN-website/resources.html</loc>
-    <lastmod>2023-03-18T06:32:01.490Z</lastmod>
+    <lastmod>2023-03-19T13:29:33.726Z</lastmod>
   </url>
   <url>
     <loc>https://responsediversitynetwork.github.io/RDN-website/who-we-are.html</loc>
-    <lastmod>2023-03-18T06:32:02.160Z</lastmod>
+    <lastmod>2023-03-19T13:30:08.810Z</lastmod>
+  </url>
+  <url>
+    <loc>https://responsediversitynetwork.github.io/RDN-website/thanks.html</loc>
+    <lastmod>2023-03-19T13:30:13.258Z</lastmod>
   </url>
 </urlset>
