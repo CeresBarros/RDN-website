@@ -23,9 +23,10 @@ website:
       - thanks.qmd
   page-footer:
     left:
-      - text: "Last edited `r format(Sys.time(), '%d %B, %Y')`"
+      - text: "Last edited March 20th, 2023"
   sidebar:
     logo: "assets/logo/Horizontal_Lockup_Black.png"
+
 
 format:
   html:
