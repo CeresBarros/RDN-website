@@ -14,13 +14,6 @@
     "text": "Aims\nThe aims of the Response Diversity Network currently include:\n\nTo organise and accelerate scientific advances about response diversity.\nTo promote the inclusion of response diversity in monitoring and assessment of biodiversity and ecosytem change.\nTo provide clear and accessible information about response diversity to relevant individuals and organisations.\n\nThe network should evolve, and as it does, these aims and how they are approached can evolve as well. The process for such change should be as open and inclusive as possible."
   },
   {
-    "objectID": "acknowledgements.html",
-    "href": "acknowledgements.html",
-    "title": "Acknowledgements",
-    "section": "",
-    "text": "Our website was built using Quarto and theme customisations by Ella Kaye. Our humble thanks to Ella for sharing her source code for others like us to use.\nWe also thank the creators of the open-source Manrope and Hack fonts."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome",
@@ -44,7 +37,7 @@
   {
     "objectID": "LICENSE.html",
     "href": "LICENSE.html",
-    "title": "Response Diversity Website",
+    "title": "",
     "section": "",
     "text": "MIT License\nCopyright (c) 2016-present George Cushen\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
   },
@@ -88,7 +81,7 @@
     "href": "posts.html",
     "title": "Posts",
     "section": "",
-    "text": "Sam Ross represented the network at the annual meeting of the Ecological Society of Japan\n\n\n\n\n\n\nMar 1, 2023\n\n\nAdmin\n\n\n\n\n\n\n\n\n\n\n\n\nSecond steering committee meeting\n\n\n\n\n\n\nJan 2, 2023\n\n\nAdmin\n\n\n\n\n\n\n\n\n\n\n\n\nFirst steering committee meeting\n\n\n\n\n\n\nDec 7, 2022\n\n\nAdmin\n\n\n\n\n\n\n\n\n\n\n\n\nA steering committee of seven was formed.\n\n\n\n\n\n\nNov 1, 2022\n\n\nAdmin\n\n\n\n\n\n\n\n\n\n\n\n\nIn October 2022 the Response Diversity Network was formed\n\n\n\n\n\n\nOct 28, 2022\n\n\nAdmin\n\n\n\n\n\n\nNo matching items"
+    "text": "RDN @ ESJ\n\n\n\n\n\nSam Ross represented the network at the annual meeting of the Ecological Society of Japan\n\n\n\n\n\n\nMar 1, 2023\n\n\nAdmin\n\n\n\n\n\n\n\n\nSteering committee meeting\n\n\n\n\n\nSecond steering committee meeting\n\n\n\n\n\n\nJan 2, 2023\n\n\nAdmin\n\n\n\n\n\n\n\n\nSteering committee meeting\n\n\n\n\n\nFirst steering committee meeting\n\n\n\n\n\n\nDec 7, 2022\n\n\nAdmin\n\n\n\n\n\n\n\n\nSteering committee formed\n\n\n\n\n\nA steering committee of seven was formed.\n\n\n\n\n\n\nNov 1, 2022\n\n\nAdmin\n\n\n\n\n\n\n\n\nNetwork formed\n\n\n\n\n\nIn October 2022 the Response Diversity Network was formed\n\n\n\n\n\n\nOct 28, 2022\n\n\nAdmin\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources.html",
@@ -126,6 +119,13 @@
     "text": "Miscellany\n\nNotes (pdf 0.1MB) and slides (pdf 4.9MB) from the scoping meeting held in October 2022."
   },
   {
+    "objectID": "thanks.html",
+    "href": "thanks.html",
+    "title": "Thanks",
+    "section": "",
+    "text": "Our website was built using Quarto and theme customisations by Ella Kaye. Our humble thanks to Ella for sharing her source code for others like us to use.\nWe also thank the creators of the open-source Manrope and Hack fonts."
+  },
+  {
     "objectID": "who-we-are.html",
     "href": "who-we-are.html",
     "title": "Who we are",
@@ -138,12 +138,5 @@
     "title": "Who we are",
     "section": "Steering Committee",
     "text": "Steering Committee\nA steering committee helps coordinate the development of the network. The committee currently consists of 7 members:\n\nCeres Barros (University of British Columbia, Canada)\nLaura E. Dee (University of Colorado, Boulder, USA)\nMike Fowler (Swansea University, UK)\nOwen L. Petchey (University of Zurich, Switzerland)\nSamuel R.P-J. Ross (Okinawa Institute of Science and Technology Graduate University, Japan)\nTakehiro Sasaki (Yokohama National University, Japan)\nHannah J. White (Anglia Ruskin University, UK)"
-  },
-  {
-    "objectID": "thanks.html",
-    "href": "thanks.html",
-    "title": "Thanks",
-    "section": "",
-    "text": "We also thank the creators of the open-source Manrope and Hack fonts."
   }
 ]
