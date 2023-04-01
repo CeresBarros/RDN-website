@@ -1,0 +1,31 @@
+---
+title: "Newsletter April 2023"
+description: "The April 2023 Newsletter, with updates of activities over the last few months, and how to get involved."
+author: "Admin"
+date: "2023-04-01"
+draft: true
+---
+
+# Membership
+
+Our numbers have grown! This happened despite the steering Committee did previously decide to focus on other activities, rather than put large efforts into recruiting new members! **How to get involved**: If you do have the opportunity, please do publicise the network. You could grab a relevant slide from [slides Sam made available](../posts/2023-03-01-RDN-at-ESJ.qmd).
+
+# Website
+
+Owen and Ceres created this website during the last month or so. **How to get involved**: If you'd like to help with it, perhaps contributing content, helping with appearance, or anything, please get in touch with one of us. If you know github, then take a look at [the website repo there](https://github.com/ResponseDiversityNetwork/RDN-website).
+
+# Positioning paper
+
+*Sam, please provide a brief update and sentence about how to get involved. 
+
+# Symposium at GfO meeting in Leipzig
+
+There will be a response diversity focused symposium at the 52nd Annual Meeting of the Ecological Society of Germany, Austria and Switzerland on 12-16 September 2023 in Leipzig. It is organised by Owen and Francesco (Polazzo). Presenting in the symposium is by invitation only (sorry -- not totally in our control). **How to get involved**: it would be great if many network members would submit abstracts to present in other relevant sessions. I imagine that we'll in any case organise a network social at the meeting.
+
+# Workshop at OIST in March 2024
+
+*Sam, please provide a brief update and sentence about how to get involved. 
+
+# Pre-proposal for network coordination office in Zurich
+
+Many networks like ours have a coordination office. We have an opportunity to propose a coordination office at the University of Zurich. This is a fantastic opportunity to take the network to the next level, and a great time to do so while the network is quite young and still developing its identity, aims, and activities. Owen and Sam, supported by the steering committee will be working on a proposal over the next month or so. **How to get involved**: Please reach out to us if you'd like to help.
