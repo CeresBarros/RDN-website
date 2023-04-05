@@ -24,8 +24,9 @@ website:
   page-footer:
     left:
       - text: "Last edited March 20th, 2023"
-  sidebar:
-    logo: "assets/logo/Horizontal_Lockup_Black.png"
+    right: 
+      - icon: github
+        href: https://github.com/ResponseDiversityNetwork
 
 
 format:
