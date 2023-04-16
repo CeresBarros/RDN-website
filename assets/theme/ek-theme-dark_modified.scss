@@ -31,6 +31,7 @@ $font-family-sans-serif: "Manrope-Light", Helvetica, sans-serif !default;
 $font-family-monospace: "Hack-Regular", monospace;
 $headings-font-family: "Manrope-Regular", Helvetica, sans-serif !default;
 
+
 // litera bootswatch theme colors
 /*
 $white:    #fff !default;
@@ -57,6 +58,7 @@ $gray-600: #868696 !default;
 $gray-700: #494957 !default;
 $gray-800: #343440 !default;
 $gray-900: #212129 !default;
+$gray-navbar: #969696 !default;
 $black:    #000 !default;
 
 
@@ -98,6 +100,8 @@ $dark:          $gray-900 !default;
 $second-color:  $green-bright;
 $third-color:   $orange;
 */
+
+
 
 // With Viridis colours
 $purple: #440154FF;
@@ -177,7 +181,6 @@ h6 code {
   font-size: $h6-font-size;
 }
 
-
 // callouts
 $callout-color-note: $teal;
 $callout-color-tip: $green;
@@ -185,10 +188,7 @@ $callout-color-caution: $darker-green;
 $callout-color-warning: $orange;
 $callout-color-important: $red;
 
-
-
 /*-- scss:rules --*/
-
 
 // color classes
 .primary {
@@ -262,13 +262,15 @@ div.tippy-content a:hover {
 }
 
 
-.navbar-brand > img {
-  width: 0px;
-  height: 0px;
-  padding: 15px 39px;
-  background: url("assets/logo/Horizontal_Lockup_White.png");
-  background-size: contain;
-  background-repeat: no-repeat;
+.navbar-brand
+{
+    position: relative;
+    background: url("assets/logo/Horizontal_Lockup_White.png");
+    width: 210px;
+    height: 75px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 

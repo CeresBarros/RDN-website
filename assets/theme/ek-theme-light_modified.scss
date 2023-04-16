@@ -136,6 +136,7 @@ $h5-font-size:     $font-size-base * 1.25 !default;
 $h6-font-size:     $font-size-base !default;
 
 // colour tweaks to theme
+
 $body-bg: $light;
 $body-color: $dark;
 $navbar-bg: $navbarcol;
@@ -146,13 +147,6 @@ $card-bg: $body-bg;
 $card-border-color: $gray-300;
 
 // font size and OpenType tweaks - adjust to make Fira Mono same size as Lemon Milk Light
-
-/*
-h1, h2, h3, h4, h5 {
-  font-weight: 300;
-}
-*/
-
 $code-font-size: $font-size-base;
 
 code {
@@ -252,6 +246,31 @@ div.tippy-content a:hover {
 // navbar
 .navbar-title {
   font-size: $font-size-base * 1.75;
+}
+
+// the line in the navbar logo
+// animation defined in ek-styles.css
+.icon-line {
+  display: block;
+  background: $primary;
+  width: 100%;
+  height: 6px;
+  margin: auto;
+  display: table;
+  margin-top: -6px;
+  margin-bottom: -6px;
+}
+
+
+.navbar-brand
+{
+    position: relative;
+    background: url("assets/logo/Horizontal_Lockup_Black.png");
+    width: 210px;
+    height: 75px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 // the line in the navbar logo
