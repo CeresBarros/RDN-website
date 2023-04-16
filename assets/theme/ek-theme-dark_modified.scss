@@ -261,6 +261,18 @@ div.tippy-content a:hover {
   margin-bottom: -6px;
 }
 
+
+.navbar-brand > img {
+  width: 0px;
+  height: 0px;
+  padding: 15px 39px;
+  background: url("assets/logo/Horizontal_Lockup_White.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+
+
 /* keep text the body colour when active
 this was a change in Quarto 1.2 - now defaults to a darker shade of $primary
 would be fine, except that I want to target the different list items to keep
