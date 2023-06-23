@@ -1,59 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://responsediversitynetwork.github.io/RDN-website/about.html</loc>
-    <lastmod>2023-03-20T08:39:12.311Z</lastmod>
-  </url>
-  <url>
-    <loc>https://responsediversitynetwork.github.io/RDN-website/index.html</loc>
-    <lastmod>2023-04-03T12:59:19.829Z</lastmod>
-  </url>
-  <url>
-    <loc>https://responsediversitynetwork.github.io/RDN-website/join.html</loc>
-    <lastmod>2023-04-03T12:59:43.848Z</lastmod>
-  </url>
-  <url>
     <loc>https://responsediversitynetwork.github.io/RDN-website/LICENSE.html</loc>
-    <lastmod>2023-03-20T08:39:14.524Z</lastmod>
+    <lastmod>2023-06-23T15:09:03.180Z</lastmod>
   </url>
   <url>
     <loc>https://responsediversitynetwork.github.io/RDN-website/posts/2022-10-28-network-formed.html</loc>
-    <lastmod>2023-04-03T11:13:40.498Z</lastmod>
-  </url>
-  <url>
-    <loc>https://responsediversitynetwork.github.io/RDN-website/posts/2022-11-01-SC-formed.html</loc>
-    <lastmod>2023-03-20T08:39:15.840Z</lastmod>
-  </url>
-  <url>
-    <loc>https://responsediversitynetwork.github.io/RDN-website/posts/2022-12-07-SC-meeting.html</loc>
-    <lastmod>2023-03-20T08:39:16.460Z</lastmod>
+    <lastmod>2023-06-23T15:09:03.477Z</lastmod>
   </url>
   <url>
     <loc>https://responsediversitynetwork.github.io/RDN-website/posts/2023-01-02-SC-meeting.html</loc>
-    <lastmod>2023-03-20T08:39:17.099Z</lastmod>
+    <lastmod>2023-06-23T15:09:03.746Z</lastmod>
   </url>
   <url>
-    <loc>https://responsediversitynetwork.github.io/RDN-website/posts/2023-03-01-RDN-at-ESJ.html</loc>
-    <lastmod>2023-04-03T11:13:40.773Z</lastmod>
+    <loc>https://responsediversitynetwork.github.io/RDN-website/posts/2022-11-01-SC-formed.html</loc>
+    <lastmod>2023-06-23T15:09:04.040Z</lastmod>
   </url>
   <url>
-    <loc>https://responsediversitynetwork.github.io/RDN-website/posts.html</loc>
-    <lastmod>2023-04-03T12:59:19.502Z</lastmod>
+    <loc>https://responsediversitynetwork.github.io/RDN-website/posts/2023-07-01-Newsletter-July2023.html</loc>
+    <lastmod>2023-06-23T15:09:04.339Z</lastmod>
   </url>
   <url>
-    <loc>https://responsediversitynetwork.github.io/RDN-website/resources.html</loc>
-    <lastmod>2023-03-20T08:39:19.102Z</lastmod>
-  </url>
-  <url>
-    <loc>https://responsediversitynetwork.github.io/RDN-website/thanks.html</loc>
-    <lastmod>2023-04-03T12:59:39.008Z</lastmod>
-  </url>
-  <url>
-    <loc>https://responsediversitynetwork.github.io/RDN-website/who-we-are.html</loc>
-    <lastmod>2023-03-20T08:39:20.295Z</lastmod>
+    <loc>https://responsediversitynetwork.github.io/RDN-website/posts/2022-12-07-SC-meeting.html</loc>
+    <lastmod>2023-06-23T15:09:04.620Z</lastmod>
   </url>
   <url>
     <loc>https://responsediversitynetwork.github.io/RDN-website/posts/2023-04-01-Newsletter-April2023.html</loc>
-    <lastmod>2023-04-03T12:59:19.145Z</lastmod>
+    <lastmod>2023-06-23T15:09:04.922Z</lastmod>
+  </url>
+  <url>
+    <loc>https://responsediversitynetwork.github.io/RDN-website/posts/2023-03-01-RDN-at-ESJ.html</loc>
+    <lastmod>2023-06-23T15:09:05.206Z</lastmod>
+  </url>
+  <url>
+    <loc>https://responsediversitynetwork.github.io/RDN-website/join.html</loc>
+    <lastmod>2023-06-23T15:09:05.468Z</lastmod>
+  </url>
+  <url>
+    <loc>https://responsediversitynetwork.github.io/RDN-website/index.html</loc>
+    <lastmod>2023-06-23T15:09:05.781Z</lastmod>
+  </url>
+  <url>
+    <loc>https://responsediversitynetwork.github.io/RDN-website/about.html</loc>
+    <lastmod>2023-06-23T15:09:06.065Z</lastmod>
+  </url>
+  <url>
+    <loc>https://responsediversitynetwork.github.io/RDN-website/thanks.html</loc>
+    <lastmod>2023-06-23T15:09:06.329Z</lastmod>
+  </url>
+  <url>
+    <loc>https://responsediversitynetwork.github.io/RDN-website/who-we-are.html</loc>
+    <lastmod>2023-06-23T15:09:06.602Z</lastmod>
+  </url>
+  <url>
+    <loc>https://responsediversitynetwork.github.io/RDN-website/posts.html</loc>
+    <lastmod>2023-06-23T15:09:06.923Z</lastmod>
+  </url>
+  <url>
+    <loc>https://responsediversitynetwork.github.io/RDN-website/resources.html</loc>
+    <lastmod>2023-06-23T15:09:07.192Z</lastmod>
   </url>
 </urlset>
