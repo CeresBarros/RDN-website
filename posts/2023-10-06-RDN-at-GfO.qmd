@@ -2,11 +2,9 @@
 title: "RDN-at-GfO"
 author: "Owen Petchey & Francesco Polazzo"
 description: "The network organised a symposium at the annual meeting of the GfO."
-date: "2023-10-06"
-draft: true
+date: "2023-10-13"
+draft: false
 ---
-
-
 
 # Response diversity: theory, observations, experiments, and applications
 
@@ -20,12 +18,11 @@ draft: true
 
 *Left to right: Francesco Polazzo (organizer), Shyamolina Ghosh, Sofia van Moorsel, Alain Danet, Mike Fowler, Lina Mühlbauer, Conor Waldock, Owen Petchey (organizer).*
 
-The symposium provided a forum for researchers to gather, share, and discuss work about response diversity. It also provided a stage on which to see opinion about what is response diversity. The opinions were broad and highlighted a need for further work on this. The symposium lies in the broader efforts of the recently formed Response Diversity Network which the organisers of the proposed session represent.
-We would like to give great thanks to the organisers of the [GfO meeting](https://www.gfoe-conference.de). It was a fantastic meeting with excellent content and organisation. Thank you.
+The symposium provided a forum for researchers to gather, share, and discuss work about response diversity. It also provided a stage on which to see opinion about what is response diversity. The opinions were broad and highlighted a need for further work on this. The symposium lies in the broader efforts of the recently formed Response Diversity Network which the organisers of the proposed session represent. We would like to give great thanks to the organisers of the [GfO meeting](https://www.gfoe-conference.de). It was a fantastic meeting with excellent content and organisation. Thank you.
 
 Here's some short information about each of the six excellent talks. Please contact the speakers if you'd like to learn more and discuss.
 
-## Temporal stability in complex food webs – Effects of stocaticity and response diveristy
+## Temporal stability in complex food webs -- Effects of stocaticity and response diveristy
 
 *Alain Danet, University of Sheffield*
 
@@ -33,15 +30,13 @@ Here's some short information about each of the six excellent talks. Please cont
 
 Alain presented his work based on a bioenergetic food-web model. He investigated the effects of environmental stochasticity and response diversity on temporal stability of community biomass.
 
-
 ## Intraspecific response diversity in beech seedlings (*Fagus sylvatica*) exposed to drought
 
 *Sofia J. Van Moorsel, University of Zurich*
 
 ![](../assets/images/RDN-at-gfo/vanMoorsel.png){width="300"}
 
-Sofia presented the results from a recent experiment where beech tree seedlings coming from multiple locations over Europe were exposed to a simulated drought. They measured plants’ responses to drought looking whether tree coming from different geographic locations (and thus differing in their genotypes) show different responses to drought.
-
+Sofia presented the results from a recent experiment where beech tree seedlings coming from multiple locations over Europe were exposed to a simulated drought. They measured plants' responses to drought looking whether tree coming from different geographic locations (and thus differing in their genotypes) show different responses to drought.
 
 ## Response diversity to temperature fluctuations in closely coupled lab- and mathematical model populations of an insect Host-Parasitoid system
 
@@ -51,15 +46,13 @@ Sofia presented the results from a recent experiment where beech tree seedlings 
 
 Mike presented work response diversity to a feature of temporal fluctuations in temperature (or any environmental variable). This feature is the colour of the flucutations, with reddened fluctuations being when current temperature is relatively similar to recent temperature. He found evidence of response diversity to the colour of the flucutations.
 
-
 ## Climate change shapes evenness richness relationships in a subalpine grassland experiment
 
 *Lina Mühlbauer, University of Graz*
 
 ![](../assets/images/RDN-at-gfo/Muhlbauer.png){width="300"}
 
-Lina presented results of the ClimGrass experiment in which carbon dioxide, temperature, and drought were manipulated. Results shows that one feature of the response diversity of a community – the richness-evenness relationship, was altered by the treatments, despite there being no clear effects on either richness or evenness alone.
-
+Lina presented results of the ClimGrass experiment in which carbon dioxide, temperature, and drought were manipulated. Results shows that one feature of the response diversity of a community -- the richness-evenness relationship, was altered by the treatments, despite there being no clear effects on either richness or evenness alone.
 
 ## Temperature change and biodiversity impact community stability differently in temperate birds and fishes
 
@@ -67,9 +60,7 @@ Lina presented results of the ClimGrass experiment in which carbon dioxide, temp
 
 ![](../assets/images/RDN-at-gfo/Ghosh.png){width="300"}
 
-
-Shyamolina exposed her work investigating how temperature change and biodiversity affect community stability in birds and fish. She found that increasing variation in species response to temperature change (i.e., response diversity) decreased overall community synchrony. On the other hand, increasing extreme temperature led to more variability among species’ thermal tolerance limits which reduced interspecific synchrony at the extremes for birds.
-
+Shyamolina exposed her work investigating how temperature change and biodiversity affect community stability in birds and fish. She found that increasing variation in species response to temperature change (i.e., response diversity) decreased overall community synchrony. On the other hand, increasing extreme temperature led to more variability among species' thermal tolerance limits which reduced interspecific synchrony at the extremes for birds.
 
 ## Quantifying spatially explicit species-specific sensitivities to multiple threats at the local scale
 
