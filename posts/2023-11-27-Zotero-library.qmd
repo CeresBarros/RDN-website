@@ -1,0 +1,17 @@
+---
+title: "Library of response diversity papers"
+author: "Owen Petchey"
+description: "The RDN compiles a library of response diversity related papers in Zotero"
+date: "2023-11-27"
+draft: false
+---
+
+# A library of response diversity related papers in Zotero
+
+![](../assets/images/zotero-library.png){width="150"}
+
+We've made [a library of response diversity related papers](https://www.zotero.org/groups/5297762/response_diversity_network/library) in [Zotero](https://www.zotero.org/). We created the library in November 2023 and will add more papers as we go along.
+
+We also created a [Response Diversity Network group](https://www.zotero.org/groups/5297762/response_diversity_network) in Zotero, for the library to sit within.
+
+We would love to have help adding papers to the library and keeping it up to date. If you'd like to help, please contact Owen. (The library is open for anyone to view, but can only be edited by invitation.)

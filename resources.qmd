@@ -4,7 +4,8 @@ title: "Resources"
 
 ## Publications
 
--   Ross, S.R.P.-J., Petchey, O.L., Sasaki, T. & Armitage, D.W. (2023). How to measure response diversity. *Methods in Ecology and Evolution*. [Preprint](https://www.biorxiv.org/content/10.1101/2022.04.26.489626v3)
+- We've made [a library of response diversity related papers](https://www.zotero.org/groups/5297762/response_diversity_network/library) in [Zotero](https://www.zotero.org/). We created the library in November 2023 and will add more papers as we go along.
+
 
 ## Presentations
 
