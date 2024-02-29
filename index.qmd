@@ -14,7 +14,7 @@ listing:
 
 Welcome to the website of the Response Diversity Network!\
 
-Here you will find the [Latest news] on RDN activities, information about [Who we are](who-we-are.qmd) and our [Aims](about.qmd), and well and relevant [Resources](resources.qmd).
+Here you will find the [Latest news] on RDN activities, information about [Who we are](who-we-are.qmd) and our [Aims](about.qmd), and relevant [Resources](resources.qmd).
 
 ## Latest news
 
