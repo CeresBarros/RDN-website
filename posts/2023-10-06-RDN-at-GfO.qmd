@@ -34,7 +34,7 @@ Alain presented his work based on a bioenergetic food-web model. He investigated
 
 *Sofia J. Van Moorsel, University of Zurich*
 
-![](../assets/images/RDN-at-gfo/vanMoorsel.jpeg){width="300"}
+![](../assets/images/RDN-at-GfO/vanMoorsel.jpeg){width="300"}
 
 Sofia presented the results from a recent experiment where beech tree seedlings coming from multiple locations over Europe were exposed to a simulated drought. They measured plants' responses to drought looking whether tree coming from different geographic locations (and thus differing in their genotypes) show different responses to drought.
 
@@ -42,7 +42,7 @@ Sofia presented the results from a recent experiment where beech tree seedlings 
 
 *Mike Fowler, Swansea University*
 
-![](../assets/images/RDN-at-gfo/fowler.jpeg){width="300"}
+![](../assets/images/RDN-at-GfO/fowler.jpeg){width="300"}
 
 Mike presented work response diversity to a feature of temporal fluctuations in temperature (or any environmental variable). This feature is the colour of the flucutations, with reddened fluctuations being when current temperature is relatively similar to recent temperature. He found evidence of response diversity to the colour of the flucutations.
 
@@ -50,7 +50,7 @@ Mike presented work response diversity to a feature of temporal fluctuations in 
 
 *Lina Mühlbauer, University of Graz*
 
-![](../assets/images/RDN-at-gfo/Muhlbauer.jpeg){width="300"}
+![](../assets/images/RDN-at-GfO/Muhlbauer.jpeg){width="300"}
 
 Lina presented results of the ClimGrass experiment in which carbon dioxide, temperature, and drought were manipulated. Results shows that one feature of the response diversity of a community -- the richness-evenness relationship, was altered by the treatments, despite there being no clear effects on either richness or evenness alone.
 
@@ -58,7 +58,7 @@ Lina presented results of the ClimGrass experiment in which carbon dioxide, temp
 
 *Shyamolina Gosh, University of Zurich*
 
-![](../assets/images/RDN-at-gfo/Ghosh.jpeg){width="300"}
+![](../assets/images/RDN-at-GfO/Ghosh.jpeg){width="300"}
 
 Shyamolina exposed her work investigating how temperature change and biodiversity affect community stability in birds and fish. She found that increasing variation in species response to temperature change (i.e., response diversity) decreased overall community synchrony. On the other hand, increasing extreme temperature led to more variability among species' thermal tolerance limits which reduced interspecific synchrony at the extremes for birds.
 
@@ -66,6 +66,6 @@ Shyamolina exposed her work investigating how temperature change and biodiversit
 
 *Conor Waldock, University of Bern*
 
-![](../assets/images/RDN-at-gfo/Waldock.jpeg){width="300"}
+![](../assets/images/RDN-at-GfO/Waldock.jpeg){width="300"}
 
 By inferring environmental effects on occurrence using explainable AI, Conor was able to reveal response diversity to some environmental drivers, such as temperature, but less to others, such as river discharge.
