@@ -31,6 +31,9 @@ vignettes/*.pdf
 *_cache/
 /cache/
 
+# ignore docs/ as GHActions is building the site automagically
+docs/
+
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
