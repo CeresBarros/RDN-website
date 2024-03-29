@@ -4,9 +4,11 @@ title: "Who we are"
 
 Responsive diversity is a transversal concept and so the network is open to anyone who would like to be part of a community of people interested in any and all things about response diversity. It includes researchers working on many types of systems, problems, and settings, including ecological systems, coupled social-ecological systems, economic-policy-behavioural systems, natural resources, urban landscapes, and nature-people relationships, to name but a few. This diversity is also represented in the many ways in which our research is done, including case studies, theoretical models, large-scale observations, manipulative experiments, and data analyses.
 
-The network is currently composed of about 80 members from 50 institutions in 24 countries. Current members include early career researchers (e.g. PhD candidates), researchers later in their careers, and everything in between.
+The network is currently composed of over 80 members from more than 50 institutions and 20 countries. Current members include early career researchers (e.g. PhD candidates), researchers later in their careers, and everything in between.
 
-![Members of the network in early 2023](assets/images/RDN_members_early2023.png)
+```{=html}
+<iframe src="https://www.google.com/maps/d/embed?mid=1JOBVT3GfU1RGSXKSA9Hdtm2u2u5bAL4&ehbc=2E312F" width="640" height="480"></iframe>
+```
 
 ## Steering Committee
 
@@ -21,6 +23,3 @@ A steering committee helps coordinate the development of the network. The commit
 -   [Hannah J. White](https://aru.ac.uk/people/hannah-white) (Anglia Ruskin University, UK)
 
 
-```{=html}
-<iframe src="https://www.google.com/maps/d/embed?mid=1JOBVT3GfU1RGSXKSA9Hdtm2u2u5bAL4&ehbc=2E312F" width="640" height="480"></iframe>
-```
