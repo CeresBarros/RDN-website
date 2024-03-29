@@ -28,18 +28,18 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Set up R
-        uses: r-lib/actions/setup-r@v2
-
-      - name: Install dependencies
-        uses: r-lib/actions/setup-r-dependencies@v2
-        with:
-          packages:
-            any::data.table
-            any::kableExtra
-            any::knitr
-            any::Require
-            any::rmarkdown
+      # - name: Set up R
+      #   uses: r-lib/actions/setup-r@v2
+      #
+      # - name: Install dependencies
+      #   uses: r-lib/actions/setup-r-dependencies@v2
+      #   with:
+      #     packages:
+      #       any::data.table
+      #       any::kableExtra
+      #       any::knitr
+      #       any::Require
+      #       any::rmarkdown
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
