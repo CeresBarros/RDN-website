@@ -33,6 +33,13 @@ jobs:
 
       - name: Install dependencies
         uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages:
+            any::data.table
+            any::kableExtra
+            any::knitr
+            any::Require
+            any::rmarkdown
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
