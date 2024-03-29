@@ -19,3 +19,8 @@ A steering committee helps coordinate the development of the network. The commit
 -   [Samuel R.P-J. Ross](https://samuelrpjross.com/) (Okinawa Institute of Science and Technology Graduate University, Japan)
 -   [Takehiro Sasaki](http://www.sasa-lab.ynu.ac.jp/pukiwiki-151/index.php) (Yokohama National University, Japan)
 -   [Hannah J. White](https://aru.ac.uk/people/hannah-white) (Anglia Ruskin University, UK)
+
+
+```{=html}
+<iframe src="https://www.google.com/maps/d/embed?mid=1JOBVT3GfU1RGSXKSA9Hdtm2u2u5bAL4&ehbc=2E312F" width="640" height="480"></iframe>
+```
