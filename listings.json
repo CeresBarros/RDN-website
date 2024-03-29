@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/posts.html",
     "items": [
       "/posts/2023-11-27-Zotero-library.html",
       "/posts/2023-10-06-Providing-information.html",
@@ -15,7 +15,7 @@
     ]
   },
   {
-    "listing": "/posts.html",
+    "listing": "/index.html",
     "items": [
       "/posts/2023-11-27-Zotero-library.html",
       "/posts/2023-10-06-Providing-information.html",
