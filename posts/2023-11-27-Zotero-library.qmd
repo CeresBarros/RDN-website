@@ -18,18 +18,18 @@ We would love to have help adding papers to the library and keeping it up to dat
 
 ### To view the library online and in Zotero app:
 
-- Go to [www.zotero.org](www.zotero.org) and log in with your account;
+1.  Go to [www.zotero.org](www.zotero.org) and log in with your account;
 
-- Join the [Response Diversity Network group](https://www.zotero.org/groups/5297762/response_diversity_network);
+2.  Join the [Response Diversity Network group](https://www.zotero.org/groups/5297762/response_diversity_network);
 
-- Go to the [response diversity library](https://www.zotero.org/groups/5297762/response_diversity_network/library).
+3.  Go to the [response diversity library](https://www.zotero.org/groups/5297762/response_diversity_network/library).
 
 You should be able to see the library in "My group libraries" both online and in the Zotero app.
 
 ### To view the library online ONLY:
 
-- Go to [www.zotero.org](www.zotero.org) and log in with your account;
+1.  Go to [www.zotero.org](www.zotero.org) and log in with your account;
 
-- Go to the [response diversity library](https://www.zotero.org/groups/5297762/response_diversity_network/library).
+2.  Go to the [response diversity library](https://www.zotero.org/groups/5297762/response_diversity_network/library).
 
 The library will appear under "Other group libraries" but will not sync with your Zotero App.
