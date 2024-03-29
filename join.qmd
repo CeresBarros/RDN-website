@@ -4,5 +4,4 @@ title: "Join us"
 
 ![](assets/images/and_you_question.png){fig-align="center" width="511"}
 
-Contact us if you are interested in joining the network, or for any other reason.
-Please fill and submit [this google form](https://forms.gle/uUgY9K8SkxkfKCR29) and someone from the network will get in touch as soon as possible.
+Contact us if you are interested in joining the network, or for any other reason. Please fill and submit [this google form](https://forms.gle/uUgY9K8SkxkfKCR29) and someone from the network will get in touch as soon as possible.

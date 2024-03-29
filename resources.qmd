@@ -4,8 +4,7 @@ title: "Resources"
 
 ## Publications
 
-- We've made [a library of response diversity related papers](https://www.zotero.org/groups/5297762/response_diversity_network/library) in [Zotero](https://www.zotero.org/). We created the library in November 2023 and will add more papers as we go along.
-
+-   We've made [a library of response diversity related papers](https://www.zotero.org/groups/5297762/response_diversity_network/library) in [Zotero](https://www.zotero.org/). We created the library in November 2023 and will add more papers as we go along.
 
 ## Presentations
 
