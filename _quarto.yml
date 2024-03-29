@@ -23,7 +23,7 @@ website:
       - thanks.qmd
   page-footer:
     left:
-      - text: "Last edited March 20th, 2023"
+      - text: "Last edited {{< meta date >}}"
   sidebar:
     logo: "assets/logo/Horizontal_Lockup_Black.png"
 
@@ -43,3 +43,4 @@ format:
 
 editor: visual
 
+date: last-modified
