@@ -10,7 +10,7 @@ website:
   site-url: https://responsediversitynetwork.github.io/RDN-website/
   repo-url: https://github.com/ResponseDiversityNetwork/RDN-website
   navbar:
-    logo: "assets/logo/Horizontal_Lockup_Black.png"
+    # logo: "assets/logo/Horizontal_Lockup_Black.png"
     search: true
     left:
       - href: index.qmd
