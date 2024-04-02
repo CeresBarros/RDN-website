@@ -40,6 +40,8 @@ format:
       dark: assets/theme/ek-dark.theme
     smooth-scroll: true
     link-external-newwindow: true
+    template-partials:
+      - partials/title-block.html
 
 editor: visual
 
